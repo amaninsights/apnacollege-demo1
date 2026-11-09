@@ -2,4 +2,6 @@
 This is my first Git Repository
 <br>
 Author - Aman Naik (Apna College)
-AmanInisights432
+username=amaninsights
+Password=AmanGit@432
+
